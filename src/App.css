@@ -9,9 +9,9 @@
 
 .login-form {
   background: white;
-  padding: 30px;
-  border-radius: 10px;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  padding: 32px;
+  border-radius: 8px;
+  box-shadow: 0 0 16px rgba(0, 0, 0, 0.2);
   text-align: center;
   width: 300px;
 }
@@ -34,7 +34,7 @@
   padding: 8px;
   width: 100%;
   border: 1px solid #ddd;
-  border-radius: 5px;
+  border-radius: 6px;
   box-sizing: border-box;
 }
 
@@ -89,10 +89,10 @@
 
 .modal-content {
   background: white;
-  padding: 30px;
-  border-radius: 10px;
+  padding: 32px;
+  border-radius: 12px;
   text-align: center;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 0 16px rgba(0, 0, 0, 0.4);
 }
 
 .modal-content h2 {
@@ -101,11 +101,11 @@
 
 .modal-content button {
   margin-top: 20px;
-  padding: 10px 20px;
+  padding: 12px 16px;
   background-color: #00796b;
   color: white;
   border: none;
-  border-radius: 5px;
+  border-radius: 6px;
   cursor: pointer;
   font-size: 16px;
 }
